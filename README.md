@@ -18,30 +18,40 @@ I am holding a Bachelor's degree in Computer Engineering from Suez Canal Univers
 
 
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-# Sample Superstore Analysis
-- Link : https://github.com/kerolosskamal/Sample-Superstore-Analysis
+## Sample Superstore Analysis
+- [Link](https://github.com/kerolosskamal/Sample-Superstore-Analysis)
 - Objective : I dove into the "Sample Superstore" dataset to unearth valuable insights and trends
 - Skills used : Power BI, Excel, Power Query
 
-# Global Layoff Trends Analysis
-- Link : https://github.com/kerolosskamal/Global-Layoff-Trends-Analysis
+## Global Layoff Trends Analysis
+- [Link](https://github.com/kerolosskamal/Global-Layoff-Trends-Analysis)
 - Objective : Utilized SQL to Conduct data cleaning and exploratory data analysis (EDA) on global company layoff datasets.
 - Skills used : MySQL, Data Cleaning, EDA
 
-  #
+## Netflix Movies TV-Shows Analysis
+- [Link](https://github.com/kerolosskamal/Netflix-Movies-TV-Shows-Analysis)
+- Objective : A comprehensive Power BI project analyzing Netflix movies and TV shows
+- Skills used : Power BI, Excel, Power Query
+  
+## Data Professional Survey Breakdown
+- [Link](https://github.com/kerolosskamal/Data-Professional-Survey-Breakdown)
+- Objective :  In this project, I analyzed key aspects of careers in data science, data analysis, data engineering, and more.
+- Skills Used : MySQL, Power BI, Power Query
+
+## Employees Analysis
+- [Link](https://github.com/kerolosskamal/Employees-Analysis)
+- Objective : This Power BI project provides a comprehensive analysis of employee data across multiple countries, including Egypt, Lebanon, Saudi Arabia, Syria, and the UAE.
+- Skills Used : Power BI, Excel, Power Query
 
 
+# 📫 Contact Me
+- [Email](kirullos.kamal@gmail.com)
+- [LnkedIn](https://www.linkedin.com/in/kerolos-kamal-9a6860265/)
 
-
-
-
-
-
-
-
-
+# 🌐 Portfolio
+check out my completed projects on [my portfolio](https://datascienceportfol.io/kirulloskamal)  
 
 
 
