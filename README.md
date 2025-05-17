@@ -25,6 +25,12 @@ I am holding a Bachelor's degree in Computer Engineering from Suez Canal Univers
 - Objective : I dove into the "Sample Superstore" dataset to unearth valuable insights and trends
 - Skills used : Power BI, Excel, Power Query
 
+
+## Data Job Market Analysis
+-[Link](https://github.com/kerolosskamal/Data-Job-Market-Analysis)
+- Objective :	Python project provides a comprehensive analysis of data job market, I deepened my understanding of the data analyst job and enhanced my technical skills in Python, especially in data manipulation and visualization.
+- Skills Used : Python (Pandas, Mtplotlib, Seaborn),  jupyter Notebooks, Visual Studio Code
+
 ## Global Layoff Trends Analysis
 - [Link](https://github.com/kerolosskamal/Global-Layoff-Trends-Analysis)
 - Objective : Utilized SQL to Conduct data cleaning and exploratory data analysis (EDA) on global company layoff datasets.
