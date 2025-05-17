@@ -27,7 +27,7 @@ I am holding a Bachelor's degree in Computer Engineering from Suez Canal Univers
 
 
 ## Data Job Market Analysis
--[Link](https://github.com/kerolosskamal/Data-Job-Market-Analysis)
+- [Link](https://github.com/kerolosskamal/Data-Job-Market-Analysis)
 - Objective :	Python project provides a comprehensive analysis of data job market, I deepened my understanding of the data analyst job and enhanced my technical skills in Python, especially in data manipulation and visualization.
 - Skills Used : Python (Pandas, Mtplotlib, Seaborn),  jupyter Notebooks, Visual Studio Code
 
